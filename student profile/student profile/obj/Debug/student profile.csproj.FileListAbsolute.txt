@@ -1,0 +1,6 @@
+c:\users\ibrah\documents\visual studio 2015\Projects\student profile\student profile\bin\Debug\student profile.exe.config
+c:\users\ibrah\documents\visual studio 2015\Projects\student profile\student profile\bin\Debug\student profile.exe
+c:\users\ibrah\documents\visual studio 2015\Projects\student profile\student profile\bin\Debug\student profile.pdb
+c:\users\ibrah\documents\visual studio 2015\Projects\student profile\student profile\obj\Debug\student profile.csprojResolveAssemblyReference.cache
+c:\users\ibrah\documents\visual studio 2015\Projects\student profile\student profile\obj\Debug\student profile.exe
+c:\users\ibrah\documents\visual studio 2015\Projects\student profile\student profile\obj\Debug\student profile.pdb
