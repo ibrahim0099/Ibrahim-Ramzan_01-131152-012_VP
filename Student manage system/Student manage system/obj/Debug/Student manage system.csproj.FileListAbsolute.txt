@@ -1,0 +1,15 @@
+C:\Users\Ibrah\Documents\Visual Studio 2015\Projects\Student manage system\Student manage system\bin\Debug\Student manage system.exe.config
+C:\Users\Ibrah\Documents\Visual Studio 2015\Projects\Student manage system\Student manage system\bin\Debug\Student manage system.exe
+C:\Users\Ibrah\Documents\Visual Studio 2015\Projects\Student manage system\Student manage system\bin\Debug\Student manage system.pdb
+C:\Users\Ibrah\Documents\Visual Studio 2015\Projects\Student manage system\Student manage system\obj\Debug\Student_manage_system.Add_Student.resources
+C:\Users\Ibrah\Documents\Visual Studio 2015\Projects\Student manage system\Student manage system\obj\Debug\Student_manage_system.Delete_Student.resources
+C:\Users\Ibrah\Documents\Visual Studio 2015\Projects\Student manage system\Student manage system\obj\Debug\Student_manage_system.Form1.resources
+C:\Users\Ibrah\Documents\Visual Studio 2015\Projects\Student manage system\Student manage system\obj\Debug\Student_manage_system.Properties.Resources.resources
+C:\Users\Ibrah\Documents\Visual Studio 2015\Projects\Student manage system\Student manage system\obj\Debug\Student_manage_system.Search_Student.resources
+C:\Users\Ibrah\Documents\Visual Studio 2015\Projects\Student manage system\Student manage system\obj\Debug\Student manage system.csproj.GenerateResource.Cache
+C:\Users\Ibrah\Documents\Visual Studio 2015\Projects\Student manage system\Student manage system\obj\Debug\Student manage system.exe
+C:\Users\Ibrah\Documents\Visual Studio 2015\Projects\Student manage system\Student manage system\obj\Debug\Student manage system.pdb
+C:\Users\Ibrah\Documents\Visual Studio 2015\Projects\Student manage system\Student manage system\obj\Debug\Student manage system.csprojResolveAssemblyReference.cache
+C:\Users\Ibrah\Documents\Visual Studio 2015\Projects\Student manage system\Student manage system\obj\Debug\Student_manage_system.Attendence_Sheet.resources
+C:\Users\Ibrah\Documents\Visual Studio 2015\Projects\Student manage system\Student manage system\obj\Debug\Student_manage_system.Top3_Students.resources
+C:\Users\Ibrah\Documents\Visual Studio 2015\Projects\Student manage system\Student manage system\obj\Debug\Student_manage_system.view_Attendence.resources
